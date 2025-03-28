@@ -2,7 +2,7 @@ package main
 
 import (
 
-	"Practica/clienteServidor/Persona/server"
+	"Practica/clienteServidor/Producto/server"
 	
 )
 
